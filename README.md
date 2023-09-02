@@ -2,7 +2,7 @@
 ---------------------------------------------------------------
 
 
-![Schermata 2023-09-02 alle 19 14 55](https://github.com/francescotambani/HuaweiMatebookD14RyzenHackintosh/assets/36541427/ea4287e8-283e-4790-b838-5aa0d6df75d1)
+![Uploading Schermata 2023-09-02 alle 19.14.55.png…]()
 
 
 
