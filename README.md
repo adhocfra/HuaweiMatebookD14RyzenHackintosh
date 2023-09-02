@@ -99,7 +99,7 @@ sudo pmset tcpkeepalive 0
 
 -HDMI (not audio but is totally solvable)
 
-WHATS'S NOT WORKING:
+WHAT'S NOT WORKING:
 ----------------------------------------------------------------------------------------------------
 -Wifi and Bluetooth (you can buy an Intel Wifi+Bluetooth card in order to get it working, but it requires additional kexts)
 
@@ -110,7 +110,13 @@ WHATS'S NOT WORKING:
 Credits:
 ----------------------------------------------------------------------------------------------------
 Dortania's Guide
-ChefKissInc 
+
+ChefKissInc for NootedRed
+
 Rxxbertx
+
+Corpnewt for Tools
+
+Acidanthera for Opencore
 
 
