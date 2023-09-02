@@ -107,6 +107,8 @@ WHAT'S NOT WORKING:
 
  ATTENTION: If you download Chrome, be aware that after installation YOU CANNOT open it by clicking on it, but from terminal you have to digit "/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --disable-gpu" (without " ") and in the search bar digit chrome://flags. You will find a series of options, find "GPU Rasterization" and disable it. Now you can open chrome by clicking on it.
 
+Remember to generate your own SMBIOS and add it into the config.plist, follow Dortania's Guide if you don't know hot to do that.
+
 Credits:
 ----------------------------------------------------------------------------------------------------
 Dortania's Guide (https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html)
