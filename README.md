@@ -109,14 +109,14 @@ WHAT'S NOT WORKING:
 
 Credits:
 ----------------------------------------------------------------------------------------------------
-Dortania's Guide
+Dortania's Guide (https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html)
 
-ChefKissInc for NootedRed
+ChefKissInc for NootedRed (https://chefkissinc.github.io)
 
-Rxxbertx
+Rxxbertx (https://github.com/Rxxbertx/Rxxbertx)
 
-Corpnewt for Tools
+Corpnewt for Tools (https://github.com/corpnewt)
 
-Acidanthera for Opencore
+Acidanthera for Opencore (https://github.com/acidanthera/OpenCorePkg)
 
 
