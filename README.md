@@ -1,4 +1,4 @@
-# HuaweiMatebookD14RyzenHackintosh
+# Huawei Matebook D14 2020 Ryzen 3500U Hackintosh
 ---------------------------------------------------------------
 
 
