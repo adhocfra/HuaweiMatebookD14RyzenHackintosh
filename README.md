@@ -107,3 +107,10 @@ WHATS'S NOT WORKING:
 
  ATTENTION: If you download Chrome, be aware that after installation YOU CANNOT open it by clicking on it, but from terminal you have to digit "/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --disable-gpu" (without " ") and in the search bar digit chrome://flags. You will find a series of options, find "GPU Rasterization" and disable it. Now you can open chrome by clicking on it.
 
+Credits:
+----------------------------------------------------------------------------------------------------
+Dortania's Guide
+ChefKissInc 
+Rxxbertx
+
+
