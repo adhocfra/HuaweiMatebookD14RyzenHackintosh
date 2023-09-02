@@ -5,7 +5,7 @@
 
 
 
-![Uploading Schermata 2023-09-02 alle 19.14.55.png…]()
+![Schermata 2023-09-02 alle 19 14 55](https://github.com/adhocfra/HuaweiMatebookD14RyzenHackintosh/assets/36541427/705dfd25-8ad5-4b67-96d6-fb6ef8c0c7c6)
 
 
 
