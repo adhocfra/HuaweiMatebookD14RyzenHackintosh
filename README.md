@@ -108,7 +108,7 @@ WHAT'S NOT WORKING:
 ----------------------------------------------------------------------------------------------------
 -Wifi and Bluetooth (you can buy an Intel Wifi+Bluetooth card in order to get it working, but it requires additional kexts)
 
--DRM services (Streaming platfroms doesn't work in Safari but only in Chrome or Firefox)
+-DRM services (Streaming platforms doesn't work in Safari but only in Chrome or Firefox)
 
  ATTENTION: If you download Chrome, be aware that after installation YOU CANNOT open it by clicking on it, but from terminal you have to digit "/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --disable-gpu" (without " ") and in the search bar digit chrome://flags. You will find a series of options, find "GPU Rasterization" and disable it. Now you can open chrome by clicking on it.
 
