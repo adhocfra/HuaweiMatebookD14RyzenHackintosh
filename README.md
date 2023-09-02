@@ -7,10 +7,15 @@ Successfully installed Monterey on Huawei Matebook D14 2020 (Ryzen 3500U + Vega8
 ACPI used:
 ----------------------------------------------------------------------------------------------------
  -->SSDT-ALS0
+ 
  -->SSDT-EC
+ 
  -->SSDT-GPRW
+ 
  -->SSDT-HPET
+ 
  -->SSDT-PLUG
+ 
  -->SSDT-PLNF
  -->SSDT-RMNE
  -->SSDT-SBUS-MCHC
