@@ -121,7 +121,7 @@ Dortania's Guide (https://dortania.github.io/OpenCore-Install-Guide/prerequisite
 
 ChefKissInc for NootedRed (https://chefkissinc.github.io)
 
-@Rxxbertx (https://github.com/Rxxbertx/Rxxbertx)
+[@Rxxbertx]([url](https://github.com/Rxxbertx/Rxxbertx))
 
 Corpnewt for Tools (https://github.com/corpnewt)
 
